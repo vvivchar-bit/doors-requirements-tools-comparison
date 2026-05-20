@@ -31,7 +31,7 @@
 |---|---|
 | **DOORS Client для Windows** | Повнофункціональний клієнт для створення, редагування, структурування і трасування вимог |
 | **DOORS для Linux** | Доцільний переважно для серверної інфраструктури та розгортання компонентів |
-| **DOORS для Solaris** | Історична платформа, яка в актуальній версії DOORS 9.7.2.10 не підтримується |
+| **DOORS для Solaris** | Історична платформа, яка в розглянутій версії DOORS 9.7.2.10 не підтримується |
 | **DOORS Web Access** | Веб-клієнт для доступу до вимог через браузер |
 | **Reqtest** | Альтернативний інструмент, використаний для практичного прикладу управління вимогами, тест-кейсами та тестовим запуском |
 
@@ -136,19 +136,19 @@ Reqtest використано як альтернативний ресурс д
 
 ### Вимоги системи «Готель» у Reqtest
 
-![Вимоги в Reqtest](screenshots/01-reqtest-requirements.png)
+![Вимоги в Reqtest](screenshots/01_reqtest_requirements.png)
 
 ### Тест-кейси системи «Готель»
 
-![Тест-кейси в Reqtest](screenshots/02-reqtest-test-cases.png)
+![Тест-кейси в Reqtest](screenshots/02_reqtest_test_cases.png)
 
 ### Результати тестового запуску
 
-![Результати тестування](screenshots/03-reqtest-test-run-results.png)
+![Результати тестування](screenshots/03_reqtest_test_run_results.png)
 
 ### Завершення тестового запуску
 
-![Завершення тестування](screenshots/04-reqtest-test-run-finished.png)
+![Завершення тестування](screenshots/04_reqtest_test_run_finished.png)
 
 ---
 
@@ -160,7 +160,7 @@ Reqtest використано як альтернативний ресурс д
 - **DOORS Web Access** — для перегляду вимог, погодження змін і спільної роботи через браузер;
 - **Reqtest** — як альтернативного практичного інструмента для демонстрації управління вимогами, тест-кейсами та тестовими запусками.
 
-Linux доцільно розглядати як платформу для серверної інфраструктури, а Solaris — лише як історичний пункт порівняння, оскільки в актуальній версії DOORS 9.7.2.10 та DOORS Web Access 9.7.2.10 Solaris не підтримується.
+Linux доцільно розглядати як платформу для серверної інфраструктури, а Solaris — лише як історичний пункт порівняння, оскільки в розглянутій версії DOORS 9.7.2.10 та DOORS Web Access 9.7.2.10 Solaris не підтримується.
 
 ---
 
@@ -184,10 +184,10 @@ doors-requirements-tools-comparison/
 │   └── requirements-traceability-matrix.md
 │
 └── screenshots/
-    ├── 01-reqtest-requirements.png
-    ├── 02-reqtest-test-cases.png
-    ├── 03-reqtest-test-run-results.png
-    └── 04-reqtest-test-run-finished.png
+    ├── 01_reqtest_requirements.png
+    ├── 02_reqtest_test_cases.png
+    ├── 03_reqtest_test_run_results.png
+    └── 04_reqtest_test_run_finished.png
 ```
 
 ---
